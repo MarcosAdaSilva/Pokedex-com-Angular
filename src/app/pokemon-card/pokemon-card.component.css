@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.pokemon-card {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.pokemon--card__number {
+  padding: 0 10px;
+}
+
+.pokemon-card__name {
+  padding: 0 10px;
+}

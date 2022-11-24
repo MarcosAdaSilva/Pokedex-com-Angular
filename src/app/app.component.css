@@ -1,4 +1,6 @@
 * {
   display: flex;
   flex-wrap: wrap;
+  font-family: "Signika", Arial, sans-serif;
+  place-content: space-evenly;
 }

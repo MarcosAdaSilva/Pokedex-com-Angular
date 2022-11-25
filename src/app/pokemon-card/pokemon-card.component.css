@@ -27,8 +27,17 @@
   margin-bottom: 5px;
 }
 
-.pokemon-card__types {
-  display: flex;
+.pokemon-card__types--grasss,
+.pokemon-card__types--poison {
   margin: 0 10px;
   padding: 5px;
+  border-radius: 3px;
+  line-height: 14px;
+  max-width: 110px;
+  width: 59.4375px;
+  float: left;
+  text-transform: none;
+  font-size: 11px;
+  text-align: center;
+  background-color: yellow;
 }
